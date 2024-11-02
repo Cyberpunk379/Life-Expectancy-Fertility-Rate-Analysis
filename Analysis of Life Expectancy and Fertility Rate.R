@@ -1,5 +1,5 @@
 #import and read file
-setwd("/Users/badboihy/Downloads/Visualizing & Analyzing Data with R - Methods & Tools/Assignments")
+setwd("/Users/badboihy/project/Analysis of Life Expectancy and Fertility Rate")
 foo <-read.csv("Datset_IA.csv")
 head(foo,20)
 str(foo)
